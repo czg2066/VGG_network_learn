@@ -1,0 +1,2 @@
+# VGG_network_learn
+学习搭建VGG卷积神经网络成功后记录一下
