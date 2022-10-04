@@ -1,7 +1,7 @@
 # VGG_network_learn
 学习搭建VGG卷积神经网络成功后记录一下
 
-主要环境：numpy==1.21.6 keras==2.10.0 tensorflow==2.10.0 opencv-python==4.6.0.66 Pillow==9.2.0 scikit-image matplotlib==3.5.3
+主要环境：numpy==1.21.6 keras==2.10.0 tensorflow==2.10.0 opencv-python==4.6.0.66 Pillow==9.2.0 scikit-image==0.19.3 matplotlib==3.5.3 scipy==1.7.3
 
 face_get.py是使用cv2借助摄像头截取人脸照片并保存，需要根目录下存在haarcascade_frontalface_default.xml文件（这是cv2官方的人脸识别模型）
 
